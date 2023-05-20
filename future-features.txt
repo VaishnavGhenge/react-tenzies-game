@@ -1,0 +1,4 @@
+1) put dots on dice
+2) track number of rolls
+3) track timr it took to win
+4) save your best to localStorage
